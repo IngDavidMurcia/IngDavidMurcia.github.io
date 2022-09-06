@@ -1,3 +1,8 @@
+body{
+    heigh:665px;
+    background-image: url("homero.jpg");
+}
+
 header{
 display:inline;
 }
